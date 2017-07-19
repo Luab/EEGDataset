@@ -28,4 +28,6 @@ Number|Age|Gender|Custom mental task|
 
 ### Dataset structure
 Our dataset is organized as follows. Folder names are coressponding to the type of activity (or mental task) recorded. 
-Inside each folder there is a subfolder named "raw" which contains unprocessed OpenBCI files. 
+Inside each folder there is a subfolder named "raw" which contains unprocessed OpenBCI files.
+The folder itself contains the same data stripped from unsued channel data,timestamp and AUX OpenBCI data (such as gyroscope).
+Feel free to use this auxilary data as well. 
