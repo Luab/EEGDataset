@@ -31,11 +31,11 @@ Number|Age|Gender|Custom mental task|
 ### Dataset structure
 Our dataset is organized as follows. Folder names are coressponding to the type of activity (or mental task) recorded. 
 Inside each folder there is a subfolder named "raw" which contains unprocessed OpenBCI files.
-The folder itself contains the same data stripped from unsued channel data,timestamp and AUX OpenBCI data (such as gyroscope).
+The folder itself contains the same data stripped from unsued channel data, timestamp and AUX OpenBCI data (such as gyroscope).
 Feel free to use this auxilary data as well. 
 
 ### Task description
 
  1. Alpha waves: We intended to capture Alpha waves to achive our task of user authorization. Subjects were asked to sit comfortably and relax. Short time after they relaxed, recording started. 
  2. Counting closed, counting open: Subjects were asked to sit comfortably. After a short period of relaxation they pressed the recording button and second after started to count from 1 to 10. Interval between each number is roughly equal to 1 second. After counting ended they waited another second and recording was stopped. There are two versions of this task, one is perfomed with opened eyes and another with closed. The experiment procedure was the same for both.
- 3. Random task: 
+ 3. Random task: Subjects were asked to think some repeatable task for themselves i.e. imagining his favourite colour, singing his favourite song or play melody of they favourite music in the head or imagine themselves into some place. Task should be performed for at least 10 seconds.
