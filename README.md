@@ -15,17 +15,24 @@ Small dataset of Innopolis University, created during Summer Internship 2017. Co
 
 Number|Age|Gender|Custom mental task|
 ------|---|------|------------------|
-0|20|M|
-1|20|M|
+0|20|M|Imagining favourite color
+1|20|M|Typing on a keyboard
 2|19|M|Walking through a well known place
-3|22|M|
-4|19|F|
-5|18|F|
+3|22|M|Listening to wind and trees 
+4|19|F|Not available
+5|18|F|Not available
 6|28|M|Singing favourite song
-7|17|M|
+7|17|M|Not available
 8|20|M|Singing favourite song
-9|19|M|
-10|31|M|Walking through a home and picking up known object
+9|19|M|Singing favourite song
+10|31|M|Walking through home and picking up known object
+11|20|M|Showing magic tricks
+12|20|M|Imagining himself an absolute
+13|27|F|Taking a shower
+14|18|M|Freefalling
+15|26|M|Imagining a logo of his company
+16|24|F|Singing a song
+17|23|F|Being in a familiar place
 
 
 ### Dataset structure
