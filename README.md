@@ -33,7 +33,32 @@ Number|Age|Gender|Custom mental task|
 15|26|M|Imagining a logo of his company
 16|24|F|Singing a song
 17|23|F|Being in a familiar place
-
+18	|	21|M|	Riverside of Volga from a bicycle
+19	|	18|M	|Being rewarded by medal at school graduation ceremony
+20	|17|M|	Riding a bycicle
+21	|	18|M|	Playing football
+22	|18|M|	Familiar song
+23	|18	|M| Interior of a room from sitcom
+24	|18|M| Imagining his cat
+25	|24|F|	Room in a house
+26	|18|M|	Father
+27  |18|M	|Typing keyboard in his room
+28	|18|M	|Attic with window and sunbeams
+29	|	17|M|	Mick Jagger performance
+30	|17|M|	Kazan-Arena stadium
+31	|19|M	|Solving math tasks
+32	|18	|M|Singing by a campfire
+33	|	18|M|	Pouring cola from one cuo to another
+34	|	18|M|	Password
+35	|19	| M| Imagining a class
+36	|	18|M|	Professor lecture
+37	|18| M|	Walking through house
+38|56	| M| Mother
+39|	18| M	|Riding a bycicle
+40|18 |M|			|Impossible triangle 
+41	|	19|	M|Opened doors and saw mountines through them
+42	|	17|	M|Sining and playing guitar
+43|	17	|F|Getting acceptance from a Innopolis university
 
 ### Dataset structure
 Our dataset is organized as follows. Folder names are coressponding to the type of activity (or mental task) recorded. 
