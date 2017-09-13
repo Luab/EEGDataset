@@ -55,7 +55,7 @@ Number|Age|Gender|Custom mental task|
 37	|18| M|	Walking through house
 38|56	| M| Mother
 39|	18| M	|Riding a bycicle
-40|18 |M|			|Impossible triangle 
+40|18 |M|	Impossible triangle 
 41	|	19|	M|Opened doors and saw mountines through them
 42	|	17|	M|Sining and playing guitar
 43|	17	|F|Getting acceptance from a Innopolis university
